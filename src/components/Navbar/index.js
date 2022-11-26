@@ -21,7 +21,7 @@ const Navbar = () => {
             About
           </NavLink>
           <NavLink to='/services' activeStyle>
-            Services
+            Projects
           </NavLink>
           <NavLink to='/contact-us' activeStyle>
             Contact Us
