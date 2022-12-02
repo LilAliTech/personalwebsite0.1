@@ -1,0 +1,11 @@
+.aboutsec{
+    background-color: rgb(70, 73, 255);
+}
+.container{
+    background-image: linear-gradient(rgb(29, 100, 255), rgb(0, 150, 170));
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+    
+}
