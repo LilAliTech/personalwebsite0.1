@@ -3,7 +3,7 @@
 }
 .container{
     background-image: linear-gradient(rgb(29, 100, 255), rgb(0, 150, 170));
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 40px;
     font-family: Arial;
     text-align: center;
